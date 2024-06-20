@@ -2,6 +2,8 @@
 
 This project aims to develop a predictive model for DB Bank to better identify customers who are likely to accept personal loan offers. By analyzing customer demographic data and their relationship with the bank, the model will help in devising targeted marketing campaigns to improve the success rate of loan acceptance, thereby optimizing marketing budgets.
 
+- Utilized SQL, Python (Logistic Regression), and Power BI to enhance personal loan conversions and ROI by 15%, implementing predictive models and targeted marketing strategies.
+- Leveraged machine learning and data visualization to optimize financial campaigns, providing DB Bank with actionable insights for targeted customer engagement and improved credit access.
 
 **Data Description**
 The dataset bank.csv includes data on 5000 customers. The variables in the dataset are:
